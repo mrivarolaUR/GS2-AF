@@ -1,0 +1,2 @@
+class LibroInvalidoError(Exception):
+    pass
